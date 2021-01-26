@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: floralwhite;
+}
+div {
+    margin-top: 15px;
+}
+.ImgSection {
+    display: flex;
+    justify-content: center;
+}
+.SectionStyle {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: aliceblue;
+}
